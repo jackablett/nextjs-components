@@ -22,11 +22,9 @@ const typographyVariants = cva(
                 accent: "text-accent",
                 foreground: "text-foreground",
                 muted: "text-muted-foreground",
-                theme: "text-theme",
                 destructive: "text-destructive",
                 white: "text-white",
                 inherit: 'text-[inherit]',
-                "theme-foreground": "text-theme-foreground",
                 success: "text-green-600"
             },
             align: {
